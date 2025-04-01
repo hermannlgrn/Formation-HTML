@@ -1,3 +1,13 @@
 header {
-    background-color: blue;
+    background-color: mediumspringgreen;
 }
+
+body {
+    background-color: blueviolet;
+}
+
+footer {
+    background-color: brown;
+}
+
+section {background-color: aqua;}
